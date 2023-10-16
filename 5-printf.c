@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 #include <unistd.h>
 /**
  * main - A program that print a line using the print function
