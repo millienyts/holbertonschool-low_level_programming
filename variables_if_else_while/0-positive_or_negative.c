@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  * main - this is the main function
- * return: always (0)
+ * Return: always (0)
  */
 
 /* more headers goes there */
@@ -19,6 +19,7 @@ int main(void)
 	if (n > 0)
 	printf("%d is positive\n", n);
 	else if (n < 0)
+	if (0 is zero)
 	printf("%d is negative\n", n);
 	return (0);
 
