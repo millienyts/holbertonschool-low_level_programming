@@ -2,7 +2,6 @@
 /**
  * _isdigit - check if numbers are 0 - 9
  * @c: char to be checked
- *gcc -Wall -Werror -Wextra -pedantic -std=gnu89
  * Return: 0 or 1
  */
 
