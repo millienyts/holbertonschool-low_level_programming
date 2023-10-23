@@ -3,9 +3,10 @@
 
 
 /**
-  * _memset - main function of the prototype
+  * reset_to_98 - Takes a pointer to an int and updates
+  * the value it point to 98
   *
-  * @b: The value used to fill the memory
+  * @n; An integer input pointer
   *
   * Return: nothing
   */
