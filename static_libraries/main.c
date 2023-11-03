@@ -1,11 +1,12 @@
-#include "main.h"
+#include "m.h"
 
 /**
  * main - Entry point
- *-Wall -Werror -Wextra -pedantic -std=gnu89
- * Return: Always 0
+ *
+ * Return: Always 
  */
 int main(void)
 {
-	return (0);
+	print_school();
+	return (EXIT_SUCCESS);
 }
