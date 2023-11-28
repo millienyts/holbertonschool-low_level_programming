@@ -1,0 +1,1 @@
+This README.md contains an implementation of singly linked lists in the C programming language. Singly linked lists are a fundamental data structure in computer science that consist of nodes, where each node points to the next node in the sequence.
